@@ -1,0 +1,42 @@
+C:\Users\hp\Desktop\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+C:\Users\hp\Desktop\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CopyComplete
+C:\Users\hp\Desktop\week 7\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+C:\Users\hp\Desktop\week 7\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week 7\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week 7\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week 7\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CopyComplete
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week 7\Commons\obj\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CopyComplete
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\Commons.runtimeconfig.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\bin\Debug\netcoreapp3.1\Commons.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\Commons\obj\Debug\netcoreapp3.1\Commons.genruntimeconfig.cache

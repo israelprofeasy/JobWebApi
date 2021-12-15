@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Data.deps.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Data.runtimeconfig.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Data.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Data.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Data.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.csproj.CopyComplete
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Data\obj\Debug\netcoreapp3.1\JobListing.Data.genruntimeconfig.cache

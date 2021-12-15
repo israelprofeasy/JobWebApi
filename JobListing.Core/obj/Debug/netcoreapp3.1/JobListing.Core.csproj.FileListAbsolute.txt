@@ -1,0 +1,54 @@
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.deps.json
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CopyComplete
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.deps.json
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week 7\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CopyComplete
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week 7\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.deps.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.csproj.CopyComplete
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.runtimeconfig.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\bin\Debug\netcoreapp3.1\JobListing.Core.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\JobListing.Core\obj\Debug\netcoreapp3.1\JobListing.Core.genruntimeconfig.cache

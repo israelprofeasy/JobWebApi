@@ -1,0 +1,44 @@
+﻿[
+  {
+    "FirstName": "Snyder",
+    "LastName": "Branch",
+    "email": "snyderbranch@bitrex.com",
+    "phone": "+1 (892) 474-2780",
+    "isActive": false
+  },
+  {
+    "FirstName": "Ethel",
+    "LastName": "Workman",
+    "email": "ethelworkman@bitrex.com",
+    "phone": "+1 (840) 418-3504",
+    "isActive": true
+  },
+  {
+    "FirstName": "Chen",
+    "LastName": "Albert",
+    "email": "chenalbert@bitrex.com",
+    "phone": "+1 (805) 495-2765",
+    "isActive": true
+  },
+  {
+    "FirstName": "Kathie",
+    "LastName": "May",
+    "email": "kathiemay@bitrex.com",
+    "phone": "+1 (842) 476-3353",
+    "isActive": false
+  },
+  {
+    "FirstName": "Rosales",
+    "LastName": "Craft",
+    "email": "rosalescraft@bitrex.com",
+    "phone": "+1 (871) 504-3634",
+    "isActive": false
+  },
+  {
+    "FirstName": "Catalina",
+    "LastName": "Meyers",
+    "email": "catalinameyers@bitrex.com",
+    "phone": "+1 (974) 507-2812",
+    "isActive": false
+  }
+]
