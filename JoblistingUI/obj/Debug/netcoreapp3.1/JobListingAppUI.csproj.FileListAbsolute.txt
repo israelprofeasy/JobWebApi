@@ -1,0 +1,307 @@
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.exe
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.deps.json
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.json
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.dev.json
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfo.cs
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\staticwebassets\JobListingAppUI.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CopyComplete
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\source\repos\JobListingAppUI\obj\Debug\netcoreapp3.1\JobListingAppUI.genruntimeconfig.cache
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\JobListingAppUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.exe
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.deps.json
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.json
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\staticwebassets\JobListingAppUI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CopyComplete
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.genruntimeconfig.cache
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-6-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-6-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.exe
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.deps.json
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.json
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\staticwebassets\JobListingAppUI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CopyComplete
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.genruntimeconfig.cache
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.exe
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.deps.json
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.json
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfo.cs
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\staticwebassets\JobListingAppUI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CopyComplete
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week 7\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.genruntimeconfig.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.exe
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.deps.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.runtimeconfig.dev.json
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListingAppUI.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Core.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.DataAccess.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\JobListing.Models.pdb
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\staticwebassets\JobListingAppUI.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.csproj.CopyComplete
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\obj\Debug\netcoreapp3.1\JobListingAppUI.genruntimeconfig.cache
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hp\Desktop\week-8-israelprofeasy\week-7-israelprofeasy\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
