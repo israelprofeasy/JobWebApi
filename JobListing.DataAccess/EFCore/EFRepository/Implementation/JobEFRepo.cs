@@ -1,5 +1,6 @@
 ﻿using JobListing.DataAccess.EFCore.EFRepository.Interface;
 using JobListingAppUI.DbContexts;
+using JobListingAppUI.Enums;
 using JobListingAppUI.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -40,34 +41,34 @@ namespace JobListing.DataAccess.EFCore.EFRepository.Implementation
             return await _context.Jobs.ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsByCategory(string categoryId)
+        public async Task<IEnumerable<Job>> GetJobsByCategory(string categoryId)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.JobCategoryId == categoryId).ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsByIndustry(string industryId)
+        public async Task<IEnumerable<Job>> GetJobsByIndustry(string industryId)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.JobIndustryId == industryId).ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsByLocation(string location)
+        public async Task<IEnumerable<Job>> GetJobsByLocation(Locations location)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.Location == location).ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsByName(string name)
+        public async Task<IEnumerable<Job>> GetJobsByName(string name)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.JobTitle == name || x.Company == name).ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsByNature(string jobNature)
+        public async Task<IEnumerable<Job>> GetJobsByNature(JobNature jobNature)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.JobNature == jobNature).ToListAsync();
         }
 
-        public Task<IEnumerable<Job>> GetJobsBySalaryRange(decimal minimum, decimal maximum)
+        public async Task<IEnumerable<Job>> GetJobsBySalaryRange(decimal minimum, decimal maximum)
         {
-            throw new NotImplementedException();
+            return await _context.Jobs.Where(x => x.MinimumSalary >= minimum && x.MaximumSalary <= maximum).OrderBy(x => x.MinimumSalary).ToListAsync();
         }
 
         public async Task<bool> JobExists(string id)
@@ -82,12 +83,13 @@ namespace JobListing.DataAccess.EFCore.EFRepository.Implementation
 
         public async  Task<bool> SaveChanges()
         {
-            return await _context.SaveChangesAsync() >=0;
+            return await _context.SaveChangesAsync() >0;
         }
 
-        public Task<bool> Update<T>(T entity)
+        public async Task<bool> Update<T>(T entity)
         {
-            throw new NotImplementedException();
+             _context.Update(entity);
+            return await SaveChanges();
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using JobListing.DataAccess.Repository.Interface;
 using JobListingAppUI.DTOs;
+using JobListingAppUI.Enums;
 using JobListingAppUI.Models;
 using System;
 using System.Collections.Generic;
@@ -15,9 +16,9 @@ namespace JobListing.DataAccess.EFCore.EFRepository.Interface
 
         public Task<IEnumerable<Job>> GetJobs();
         public Task<IEnumerable<Job>> GetJobsByCategory(string categoryId);
-        public Task<IEnumerable<Job>> GetJobsByLocation(string location);
+        public Task<IEnumerable<Job>> GetJobsByLocation(Locations location);
         public Task<IEnumerable<Job>> GetJobsByIndustry(string industryId);
-        public Task<IEnumerable<Job>> GetJobsByNature(string jobNature);
+        public Task<IEnumerable<Job>> GetJobsByNature(JobNature jobNature);
         public Task<IEnumerable<Job>> GetJobsBySalaryRange(decimal minimum, decimal maximum);
         public Task<IEnumerable<Job>> GetJobsByName(string name);
         public Task<Job> GetJobById(string id);

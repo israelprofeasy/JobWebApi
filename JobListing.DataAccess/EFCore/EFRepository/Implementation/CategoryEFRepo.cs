@@ -1,4 +1,5 @@
 ﻿using JobListing.DataAccess.EFCore.EFRepository.Interface;
+using JobListingAppUI.DbContexts;
 using JobListingAppUI.Models;
 using System;
 using System.Collections.Generic;
@@ -9,24 +10,32 @@ namespace JobListing.DataAccess.EFCore.EFRepository.Implementation
 {
     public class CategoryEFRepo : ICategoryEFRepo
     {
-        public Task<bool> Add<T>(T entity)
+        private readonly JobListingDbContext _context;
+
+        public CategoryEFRepo(JobListingDbContext jobListingDbContext)
         {
-            throw new NotImplementedException();
+            _context = jobListingDbContext;
+        }
+        public async Task<bool> Add<T>(T entity)
+        {
+            _context.Add(entity);
+            return await SaveChanges();
         }
 
         public Task<bool> AddIndustry(JobIndustry industry)
         {
-            throw new NotImplementedException();
+            
         }
 
-        public Task<bool> Delete<T>(T entity)
+        public async Task<bool> Delete<T>(T entity)
         {
-            throw new NotImplementedException();
+            _context.Remove(entity);
+            return await SaveChanges();
         }
 
-        public Task<JobCategory> GetCategory(string category)
+        public async Task<JobCategory> GetCategory(string category)
         {
-            throw new NotImplementedException();
+            return _context.Category.Wh
         }
 
         public Task<JobIndustry> GetIndustry(string industry)
@@ -39,9 +48,9 @@ namespace JobListing.DataAccess.EFCore.EFRepository.Implementation
             throw new NotImplementedException();
         }
 
-        public Task<bool> SaveChanges()
+        public async Task<bool> SaveChanges()
         {
-            throw new NotImplementedException();
+            return await _context.SaveChangesAsync() >0;
         }
 
         public Task<bool> Update<T>(T entity)

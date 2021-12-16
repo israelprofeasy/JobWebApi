@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0f3a33d-6877-49bd-b342-7e129964f32c": {
+      "ProjectGuid": "b0f3a33d-6877-49bd-b342-7e129964f32c",
+      "DisplayName": "JobListing.DataAccess",
+      "ColorIndex": 0
+    },
+    "6fdfcdea-4718-486f-817c-ac1fddf52849": {
+      "ProjectGuid": "6fdfcdea-4718-486f-817c-ac1fddf52849",
+      "DisplayName": "JobListing.Models",
+      "ColorIndex": 1
+    },
+    "b387fc62-cfb7-4668-a06c-66a85429469b": {
+      "ProjectGuid": "b387fc62-cfb7-4668-a06c-66a85429469b",
+      "DisplayName": "JobListingAppUI",
+      "ColorIndex": 2
+    },
+    "316df6b4-2b1d-4de1-949c-f55736c403a0": {
+      "ProjectGuid": "316df6b4-2b1d-4de1-949c-f55736c403a0",
+      "DisplayName": "JobListing.Core",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
